@@ -11,7 +11,6 @@
 	<groupId>com.example</groupId>
 	<artifactId>simple_app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
 	<name>simple_app</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
