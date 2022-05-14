@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController {
     @GetMapping("/")
     public String homepage() {
-        return "Pham chi Dung dep trai";  // Trả về trang index.html
+        return "Pham chi Dung dep trai khoai to";  // Trả về trang index.html
     }
 }
